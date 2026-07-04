@@ -195,8 +195,8 @@ body (background:#f5f5f5)
 ```html
 <section style="text-align:center; padding:20px 0 0;">
   <img src="头像base64或路径" style="width:48px; height:48px; border-radius:50%; margin-bottom:10px;">
-  <p style="margin:0 0 4px; font-size:15px; font-weight:bold; color:#1A1A2E;">Esther不二</p>
-  <p style="margin:0; font-size:13px; color:#8A8A9A; line-height:1.8;">▪️在AI时代认真生活的女生｜INTJ<br>▪️跟Agent搭档的第1年</p>
+  <p style="margin:0 0 4px; font-size:15px; font-weight:bold; color:#1A1A2E;">{{作者名}}</p>
+  <p style="margin:0; font-size:13px; color:#8A8A9A; line-height:1.8;">{{签名行1}}<br>{{签名行2}}</p>
 </section>
 ```
 
