@@ -144,6 +144,14 @@ body (background:#f5f5f5)
 <img src="图片路径或base64" style="width:100%; border-radius:14px; margin-bottom:20px;">
 ```
 
+### 图片占位（模板中使用）
+```html
+<section style="width:100%; height:200px; border-radius:14px; margin-bottom:20px; background:#FFF8E1; display:flex; align-items:center; justify-content:center; position:relative; overflow:hidden;">
+  <span style="font-family:Georgia,serif; font-size:120px; font-weight:bold; color:rgba(244,215,88,0.3); position:absolute; top:50%; left:50%; transform:translate(-50%,-50%);">IMG</span>
+  <span style="font-size:13px; color:#8A8A9A; position:relative; z-index:1;">配图位置</span>
+</section>
+```
+
 ### 图注（可选）
 ```html
 <section style="text-align:center; margin-bottom:20px;">
