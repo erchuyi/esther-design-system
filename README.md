@@ -32,7 +32,7 @@
 
 功能优先、交互感、信息密度高的应用型页面。
 
-🔗 [在线预览](https://hiesther.me/tutorials/personal-dashboard/)（原作者 Demo，仅供参考）
+🔗 [在线预览](https://esthersjw.github.io/esther-design-system/demo-app.html)
 
 ---
 
@@ -40,7 +40,7 @@
 
 3:4 比例、字大、手机可读、一键导出 PNG 的图文卡片。
 
-🔗 打开 `assets/template-cards.html` 预览
+🔗 [在线预览](https://esthersjw.github.io/esther-design-system/demo-cards.html)
 
 ---
 
@@ -52,9 +52,17 @@
 
 ---
 
+### 📜 布局 Playground
+
+16种经过验证的布局模式一览。
+
+🔗 [在线预览](https://esthersjw.github.io/esther-design-system/demo-layouts.html)
+
+---
+
 ### 🧩 组件库全览
 
-50+ 经过验证的可复用组件。
+52个经过验证的可复用组件。
 
 🔗 [组件库预览](https://esthersjw.github.io/esther-design-system/components-preview.html)
 
