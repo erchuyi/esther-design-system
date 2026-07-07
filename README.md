@@ -198,7 +198,8 @@ AI 每次做设计必须按这个顺序走：
 
 ## Credits
 
-Design System framework inspired by [Cola](https://colaos.ai) — the first OS with a soul.
+- 方法论灵感来源于 [归藏](https://github.com/guizang) 的 PPT Skill——“限制AI的自由度 = 保证输出质量”这个核心思路参考了他的设计
+- Built with [Cola](https://colaos.ai) — the first OS with a soul
 
 ---
 
